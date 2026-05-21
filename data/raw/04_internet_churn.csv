@@ -1,0 +1,3 @@
+internet_status,total_customers,churned_customers,churn_rate
+Has Internet,5517,1756,31.83
+No Internet,1526,113,7.4
